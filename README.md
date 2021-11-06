@@ -10,3 +10,7 @@ Second try at making a game with a cube followith [this tutorial](https://youtub
 ## Rotating Cube
 
 A cube that rotates. Published here: https://elpinchetopo.github.io/Unity101/RotatingCube/
+
+## Shooter
+
+A simple shooter. Published here: https://elpinchetopo.github.io/Unity101/Shooter/
